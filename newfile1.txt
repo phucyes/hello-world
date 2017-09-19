@@ -1,8 +1,5 @@
 Phuc is awesome!
-<<<<<<< HEAD
-
 The world is mine! 
-=======
 This is a change from another person
 This is a new commit from the download... New is the "orignal file." stored on some drive."
->>>>>>> patch1
+
